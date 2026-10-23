@@ -1,0 +1,9 @@
+System Vitals - free licence
+
+You may use System Vitals for free, at home or at work, and share its setup file with anyone, as long as
+you share it unchanged and free of charge, with this licence. You may not sell it or claim it as your own.
+
+System Vitals is provided "as is", without warranty of any kind. It reads your PC's own health records
+and copies files you choose; it cannot prevent every failure, and you remain responsible for your data
+and your PC. In no event shall its makers be liable for any claim, damages or other liability arising
+from its use.
